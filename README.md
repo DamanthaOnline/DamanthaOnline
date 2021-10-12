@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 <br>
 <br>
 
-- ![Profile views](https://gpvc.arturio.dev/Lasindu Senash)
+- ![Profile views](https://gpvc.arturio.dev/Lasindu-Senash)
 - [![GitHub followers](https://img.shields.io/github/followers/King-Amda.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/King-Amda?tab=followers)
   
 
